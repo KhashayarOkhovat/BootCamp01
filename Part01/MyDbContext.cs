@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Part01
 {
-    class MyDbContext
+    public class MyDbContext //: DbContext
     {
+
     }
 }
