@@ -20,7 +20,7 @@ namespace Part01
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Test 1");
-
+            MessageVox.show("Test 1.5");
             MessageBox.Show("Test 2");
 
         }
